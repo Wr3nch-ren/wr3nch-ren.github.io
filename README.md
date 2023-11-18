@@ -1,2 +1,2 @@
 # wr3nch-ren.github.io
-Testing github.io website, how bad can I code?
+Trying to make github.io website, how bad can I code?
